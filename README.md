@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Diana Gonzálesz</h1>
+<h1 align="center">Hola 👋, soy Diana González</h1>
 <h3 align="center">Soy</h3>
 
 - 💬 Pregúntame sobre **Redes neuronales artificiales**
